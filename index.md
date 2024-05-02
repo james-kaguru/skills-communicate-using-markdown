@@ -8,3 +8,7 @@
 echo hello world
 # printed hello world to the console
 ```
+
+- [X] Register for all in africa
+- [X] Participate in Major league hacking
+- [ ] Finish Canvas course 
